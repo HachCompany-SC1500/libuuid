@@ -1,2 +1,0 @@
-# libuuid
-UUID library
